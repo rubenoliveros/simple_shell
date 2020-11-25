@@ -1,3 +1,3 @@
 # simple_shell
-##Leopoldo Luna
-##Ruben Oliveros
+Ruben Oliveros- Leopoldo Luna
+Holbertonschool- C13
