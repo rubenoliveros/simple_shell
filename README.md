@@ -22,7 +22,7 @@ This is our try at creating a simple shell for linux
 * [prompt.c](prompt.c)
 * [strtow.c](strtow.c)
 * [utility.c](utility.c)
-* [simple_shell.c](simple_shell.c) - essential functions to the shell
+* [simple_shell.c](simple_shell.c)
 
 ## Requirements
 
