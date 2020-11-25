@@ -10,7 +10,7 @@
 * [Authors](#authors)
 
 ## Description
-This is our try at creating a simple shell for linux  
+This is our try at creating a simple shell for linux, it's very basic.  
 
 ## File Structure
 * [AUTHORS](AUTHORS)
@@ -41,6 +41,6 @@ Ubuntu 14.04 LTS
 This project can execute commands similar to bash, it has limited features and is still a work in progress.
 
 ## Authors
-Leopoldo luna
+Leopoldo Luna
 
 Ruben Oliveros
