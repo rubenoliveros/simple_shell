@@ -1,5 +1,5 @@
 #include "shell.h"
-x
+
 /**
 * build_path - Adds each path directory to a NULL-terminated array
 *
