@@ -77,11 +77,11 @@ void print_env(char **env)
 }
 
 /**
- * _getenv - gets a matching env variable or returns NULL
- *
- * @name: name of env variable we want
- * Return: the contents of a matching variable or NULL
- */
+* _getenv - gets a matching env variable or returns NULL
+*
+* @name: name of env variable we want
+* Return: the contents of a matching variable or NULL
+*/
 char *_getenv(char *name)
 {
 	int i = 0, k = 0;
